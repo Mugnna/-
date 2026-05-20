@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37027.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoParkManager", "AutoParkManager\AutoParkManager.csproj", "{B4415651-D39D-423A-827E-176F1CC8BF34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4415651-D39D-423A-827E-176F1CC8BF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4415651-D39D-423A-827E-176F1CC8BF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4415651-D39D-423A-827E-176F1CC8BF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4415651-D39D-423A-827E-176F1CC8BF34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADE70F77-DDC2-45F9-B38B-DF89C90D1CDC}
+	EndGlobalSection
+EndGlobal

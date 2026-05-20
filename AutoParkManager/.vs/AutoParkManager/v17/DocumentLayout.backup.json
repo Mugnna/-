@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|c:\\users\\user\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\autoparkmanager\\autoparkmanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AutoParkManager||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|c:\\users\\user\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\autoparkmanager\\autoparkmanager\\reportswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\reportswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\reportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\reportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\clientswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\clientswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\clientswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\clientswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\clientinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\clientinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\clientinputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\clientinputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\exitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\exitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\exitwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\exitwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\entrywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\entrywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\entrywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\entrywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\autoparkmanager\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\packages\\EPPlus.8.5.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\EPPlus.8.5.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|c:\\users\\user\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\autoparkmanager\\autoparkmanager\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{B4415651-D39D-423A-827E-176F1CC8BF34}|AutoParkManager\\AutoParkManager.csproj|solutionrelative:autoparkmanager\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AutoParkManager\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\App.xaml.cs",
+              "RelativeToolTip": "AutoParkManager\\App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:17:56.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoParkManager",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\AutoParkManager.csproj",
+              "RelativeDocumentMoniker": "AutoParkManager\\AutoParkManager.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\AutoParkManager.csproj",
+              "RelativeToolTip": "AutoParkManager\\AutoParkManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-16T15:10:44.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AutoParkManager\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\MainWindow.xaml",
+              "RelativeToolTip": "AutoParkManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T17:28:47.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\App.xaml",
+              "RelativeDocumentMoniker": "AutoParkManager\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\App.xaml",
+              "RelativeToolTip": "AutoParkManager\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T17:26:05.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ReportsWindow.xaml",
+              "RelativeDocumentMoniker": "AutoParkManager\\ReportsWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ReportsWindow.xaml",
+              "RelativeToolTip": "AutoParkManager\\ReportsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T17:37:30.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "AutoParkManager\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\LoginWindow.xaml",
+              "RelativeToolTip": "AutoParkManager\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T17:23:17.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ClientsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AutoParkManager\\ClientsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ClientsWindow.xaml.cs",
+              "RelativeToolTip": "AutoParkManager\\ClientsWindow.xaml.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T17:33:15.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AutoParkManager\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AutoParkManager\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAswJAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T17:29:24.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientInputDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ClientInputDialog.xaml",
+              "RelativeDocumentMoniker": "AutoParkManager\\ClientInputDialog.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ClientInputDialog.xaml",
+              "RelativeToolTip": "AutoParkManager\\ClientInputDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T17:35:47.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ReportsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AutoParkManager\\ReportsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ReportsWindow.xaml.cs",
+              "RelativeToolTip": "AutoParkManager\\ReportsWindow.xaml.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAIwJMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T17:38:04.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ClientsWindow.xaml",
+              "RelativeDocumentMoniker": "AutoParkManager\\ClientsWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ClientsWindow.xaml",
+              "RelativeToolTip": "AutoParkManager\\ClientsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T17:33:01.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientInputDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ClientInputDialog.xaml.cs",
+              "RelativeDocumentMoniker": "AutoParkManager\\ClientInputDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ClientInputDialog.xaml.cs",
+              "RelativeToolTip": "AutoParkManager\\ClientInputDialog.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T17:36:29.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExitWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ExitWindow.xaml",
+              "RelativeDocumentMoniker": "AutoParkManager\\ExitWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ExitWindow.xaml",
+              "RelativeToolTip": "AutoParkManager\\ExitWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T17:31:31.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EntryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\EntryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AutoParkManager\\EntryWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\EntryWindow.xaml.cs",
+              "RelativeToolTip": "AutoParkManager\\EntryWindow.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T17:30:57.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AutoParkManager\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "AutoParkManager\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T17:22:12.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExitWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ExitWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AutoParkManager\\ExitWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\ExitWindow.xaml.cs",
+              "RelativeToolTip": "AutoParkManager\\ExitWindow.xaml.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAUwOQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T17:31:54.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EntryWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\EntryWindow.xaml",
+              "RelativeDocumentMoniker": "AutoParkManager\\EntryWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\EntryWindow.xaml",
+              "RelativeToolTip": "AutoParkManager\\EntryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T17:30:33.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\packages.config",
+              "RelativeDocumentMoniker": "AutoParkManager\\packages.config",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\AutoParkManager\\packages.config",
+              "RelativeToolTip": "AutoParkManager\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-13T17:24:08.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACYAAAAVAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T17:22:31.819Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\packages\\EPPlus.8.5.1\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\EPPlus.8.5.1\\readme.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\AutoParkManager\\packages\\EPPlus.8.5.1\\readme.txt",
+              "RelativeToolTip": "packages\\EPPlus.8.5.1\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-13T17:06:15.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
